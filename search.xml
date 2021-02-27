@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2Fcat%2Findex.html</url>
+    <content type="text"></content>
+      <categories>
+        <category>cat</category>
+      </categories>
+      <tags>
+        <tag>tags1</tag>
+        <tag>tags2</tag>
+      </tags>
+  </entry>
 </search>
